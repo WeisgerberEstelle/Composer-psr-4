@@ -1,0 +1,13 @@
+{
+    "name": "composer/tuto",
+    "authors": [
+        {
+            "name": "Estelle Weisgerber",
+            "email": "akumaony@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\Wcs\\" : "public/src/wcs"}
+    }
+}
